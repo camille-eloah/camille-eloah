@@ -1,6 +1,6 @@
 ### E aí! 👋
 - 🔭 Atualmente desenvolvendo um projeto envolvendo Eletromiografia & IA e colaborando com a DevsFree. 
-- 🌱 Aprendendo tanto desenvolvimento web e desenvolvimento de aplicativos quanto machine learning e ciência de dados.
+- 🌱 Aprendendo tanto desenvolvimento web e de aplicativos quanto machine learning e ciência de dados.
 - ⚡ Fato legal: O universo gosta de coragem! Sonhe o impossível. Você será ajudado por ele.
   
 "Dream the impossible dream and the world will not grind you under. It will lift you up."

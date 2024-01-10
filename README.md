@@ -3,7 +3,7 @@
 - 🌱 Aprendendo tanto desenvolvimento web e desenvolvimento de aplicativos quanto machine learning e ciência de dados.
 - ⚡ Fato legal: O universo gosta de coragem! Sonhe o impossível. Você será ajudado por ele.
 - 
-"Dream the impossible dream and the world will not grind you under. It will lift yo up."
+"Dream the impossible dream and the world will not grind you under. It will lift you up."
 
 <!--
 **coockatielz/coockatielz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

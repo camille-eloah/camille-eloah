@@ -1,6 +1,6 @@
 ### E aí! 👋
 - 🔭 Atualmente desenvolvendo um projeto envolvendo Inteligência artificial com LLMs (Large Language Models). 
-- 🌱 Aprendendo tanto desenvolvimento web e de aplicativos quanto machine learning e ciência de dados.
+- 🌱 Aprendendo tanto desenvolvimento web quanto machine learning e ciência de dados.
 - 🎓 Cursando Informática Para Internet (técnico) no IFRN.
 - ⚡ Fato legal: O universo gosta de coragem! Sonhe o impossível. Você será ajudado por ele.
   

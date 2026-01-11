@@ -1,7 +1,7 @@
 ### E aí! 👋
 - 🔭 Atualmente desenvolvendo um projeto envolvendo Inteligência artificial com LLMs (Large Language Models). 
 - 🌱 Aprendendo tanto desenvolvimento web quanto machine learning e ciência de dados.
-- 🎓 Cursando Informática Para Internet (técnico) no IFRN.
+- 🎓 Técnica em Informática Para Internet pelo IFRN.
 - ⚡ Fato legal: O universo gosta de coragem! Sonhe o impossível. Você será ajudado por ele.
   
 "Dream the impossible dream and the world will not grind you under. It will lift you up."
